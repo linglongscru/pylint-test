@@ -1,0 +1,10 @@
+checks:
+    ruby:
+        lint_ambiguous_operator: true
+        lint_ambiguous_regexp_literal: true
+        lint_assignment_in_condition: true
+        lint_debugger: true
+        lint_deprecated_class_methods: true
+        lint_each_with_object_argument: true
+        lint_empty_ensure: true
+        lint_empty_interpolation: true
